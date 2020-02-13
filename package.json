@@ -1,0 +1,23 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "Building a simple dynamic website using HTML, CSS, jQuery, web APIs, and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHCode/Yelp-Camp.git"
+  },
+  "author": "Kris Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHCode/Yelp-Camp/issues"
+  },
+  "homepage": "https://github.com/KHCode/Yelp-Camp#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
